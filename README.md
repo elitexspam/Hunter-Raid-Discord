@@ -33,7 +33,11 @@ Antes de usar, certifique-se de que:
 
 3. Execute o arquivo `.exe`
 
-4. O bot ficará online e você poderá controlar/monitorar os comandos pelo terminal
+4. O `.exe` vai pedir o ID do servidor,copie e cole neste script
+
+5. O `.exe` vai reconhecer o servidor com o bot e boom! pronto pra usar.
+
+6. O bot ficará online e você poderá controlar/monitorar os comandos pelo terminal
 
 ## Observações importantes
 
