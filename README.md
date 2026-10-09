@@ -26,7 +26,7 @@ Antes de usar, certifique-se de que:
 
 ## Como utilizar
 
-1. Adicione o bot ao servidor alvo (requer administração):
+1. Adicione o bot ao servidor alvo (requer permissão de admin):
    https://discord.com/oauth2/authorize?client_id=1553592235646517268
 
 2. Baixe o executável mais recente do projeto
@@ -35,7 +35,7 @@ Antes de usar, certifique-se de que:
 
 4. O `.exe` vai pedir o ID do servidor,copie e cole neste script
 
-5. O `.exe` vai reconhecer o servidor com o bot e boom! pronto pra usar.
+5. O `.exe` vai reconhecer o servidor com o bot
 
 6. O bot ficará online e você poderá controlar/monitorar os comandos pelo terminal
 
@@ -43,11 +43,11 @@ Antes de usar, certifique-se de que:
 
 - O executável já vem com o token embutido
 - O projeto foi pensado para uso prático e rápido
-- Use apenas em ambientes e servidores em que você tenha autorização legal para operar
+- O Bot não tem comandos que executa alguma função no Discord. O Bot tem seus comandos só no executável.
 
 ## Aviso de uso
 
-Este tipo de ferramenta pode interagir com plataformas externas e exigir permissões elevadas. Use com responsabilidade, em conformidade com as regras do servidor e com os termos de uso da plataforma.
+o Bot precisa de permissões elevadas. Use com responsabilidade, em conformidade com as regras do servidor e com os termos de uso da plataforma do Discord.
 
 ## Contato / suporte
 
