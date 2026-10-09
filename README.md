@@ -1,4 +1,5 @@
-# Hunter Raid
+<img src="Screenshot 2026-10-08 215325.png" alt="Hunter">
+# Hunter Bot
 
 Bot para Discord voltado para automação em servidores-alvo, com foco em operação contínua e execução simples via terminal.
 
